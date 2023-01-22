@@ -105,3 +105,8 @@ body{
     grid-template-rows: 50px 50px;
     gap: 10px;
 }
+.formblock{
+  width: 500px;
+  margin-top: 80px;
+  margin-left: 450px;
+}
